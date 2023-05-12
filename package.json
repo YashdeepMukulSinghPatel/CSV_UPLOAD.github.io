@@ -1,7 +1,7 @@
 {
   "name": "csv-upload",
   "version": "1.0.0",
-  "description": "CSV UPLOAD",
+  "description": "CSV_UPLOAD",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
